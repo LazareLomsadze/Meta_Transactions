@@ -7,3 +7,6 @@ while the GaslessTokenTransfer contract allows users to execute token transfers 
 https://docs.uniswap.org/contracts/v2/guides/smart-contract-integration/supporting-meta-transactions
 
 https://github.com/ethereum/EIPs/issues/1776
+
+https://medium.com/coinmonks/ethereum-meta-transactions-101-de7f91884a06
+
